@@ -14,6 +14,11 @@ const MainHome = () => {
         to='/afifacare'
         >Afifa Care
         </Link>
+
+        <Link
+        to='/PlutoPe'
+        >PlutoPe
+        </Link>
         </div>
     </>
   )
